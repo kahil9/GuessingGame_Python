@@ -11,7 +11,7 @@ The objective of this project was to practice fundamental Python programming con
 - Random number generation
 - Basic terminal formatting
 
-#Features
+# Features
 - Random number generation between 1 and 100
 - Five-attempt guessing system
 - Input validation for non-numeric entries
